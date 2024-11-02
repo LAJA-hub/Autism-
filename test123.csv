@@ -1,0 +1,201 @@
+ID,gender,ethnicity,jaundice,austim,contry_of_res,age,Age group,relation
+1,m,White-European,yes,no,India,16,Teen,Self
+2,m,Asian,no,no,Mexico,27,Young Adult,Self
+3,m,White-European,yes,no,Egypt,32,Young Adult,Self
+4,m,?,no,no,India,24,,Self
+5,m,?,no,no,Italy,20,,Self
+6,f,?,yes,no,Australia,55,,Self
+7,m,?,yes,no,United States,44,,Self
+8,f,?,no,no,India,56,,Self
+9,m,?,no,no,Jordan,28,,Self
+10,f,Middle Eastern ,yes,no,Burundi,56,Adult,Self
+11,m,?,no,no,India,37,,Self
+12,f,White-European,no,no,United Kingdom,21,Young Adult,Parent
+13,f,Asian,no,no,Jordan,40,Young Adult,Self
+14,f,White-European,yes,no,India,36,Young Adult,Self
+15,f,South Asian,no,no,Canada,17,Teen,Self
+16,m,White-European,no,no,United Kingdom,39,Young Adult,Self
+17,m,White-European,no,no,Canada,27,Young Adult,Self
+18,f,White-European,no,no,United States,22,Young Adult,Self
+19,m,?,no,no,India,14,,?
+20,f,Middle Eastern ,no,no,India,49,Adult,Self
+21,f,White-European,no,no,Germany,16,Teen,Self
+22,m,Pasifika,yes,yes,Canada,56,Adult,Self
+23,f,White-European,no,no,United States,23,Young Adult,Self
+24,m,White-European,no,no,United States,17,Teen,Self
+25,f,Middle Eastern ,no,yes,India,72,Adult,Self
+26,m,Turkish,yes,no,India,21,Young Adult,Self
+27,m,Asian,no,no,United States,22,Young Adult,Self
+28,m,White-European,no,no,Russia,41,Adult,Self
+29,m,South Asian,no,no,United States,38,Young Adult,Self
+30,m,White-European,no,no,Jordan,15,Teen,Self
+31,m,South Asian,no,no,India,21,Young Adult,Relative
+32,m,Latino,yes,yes,Spain,13,Teen,Others
+33,m,White-European,yes,yes,United States,66,Adult,Self
+34,m,?,yes,no,Austria,9,,Self
+35,f,White-European,no,no,United Kingdom,16,Teen,Self
+36,m,White-European,yes,no,Iran,29,Young Adult,Self
+37,m,?,no,no,United Kingdom,18,,Self
+38,m,White-European,yes,no,India,32,Young Adult,Self
+39,m,Asian,no,no,New Zealand,12,,Self
+40,f,?,yes,no,New Zealand,54,,Self
+41,m,?,no,no,India,59,,Self
+42,m,Pasifika,yes,no,Bolivia,13,Teen,Others
+43,m,?,no,no,United Arab Emirates,15,,Self
+44,f,Asian,yes,no,Uruguay,31,Young Adult,Self
+45,f,South Asian,yes,no,India,34,Young Adult,Self
+46,m,?,no,no,United Arab Emirates,27,,Self
+47,m,?,no,no,United Arab Emirates,17,,Self
+48,m,White-European,no,yes,United States,23,Young Adult,Self
+49,f,?,no,no,India,25,,Self
+50,f,?,yes,no,Lebanon,31,,Self
+51,m,White-European,no,no,Bolivia,23,Young Adult,Self
+52,m,?,no,no,France,15,,Self
+53,f,White-European,no,yes,United States,9,,Self
+54,f,White-European,no,no,United States,23,Young Adult,Self
+55,m,Pasifika,no,no,France,22,Young Adult,Self
+56,m,Middle Eastern ,no,no,New Zealand,41,Adult,Self
+57,m,Black,yes,no,United States,34,Young Adult,Self
+58,f,?,no,no,Canada,22,,Self
+59,m,Middle Eastern ,no,no,Austria,6,,Self
+60,f,?,no,no,Jordan,21,,Self
+61,m,?,no,no,United States,20,,Self
+62,f,Asian,no,no,India,24,Young Adult,Self
+63,m,Asian,no,no,Netherlands,16,Teen,Self
+64,f,Middle Eastern ,yes,no,Canada,50,Adult,Self
+65,m,White-European,no,no,United Kingdom,77,Adult,Self
+66,m,Asian,no,no,Bahamas,29,Young Adult,Self
+67,f,White-European,yes,no,United States,39,Young Adult,Self
+68,m,Middle Eastern ,no,no,Jordan,18,Young Adult,Self
+69,f,Middle Eastern ,no,no,Iceland,56,Adult,Self
+70,m,White-European,no,no,United States,9,,Self
+71,m,?,no,no,United States,35,,Self
+72,f,?,no,no,United Arab Emirates,20,,Self
+73,f,Asian,no,no,India,21,Young Adult,Self
+74,m,Middle Eastern ,no,no,India,50,Adult,Self
+75,m,Others,no,no,India,15,Teen,Self
+76,m,?,no,no,India,23,,Self
+77,m,?,no,no,India,33,,Self
+78,m,White-European,yes,yes,Canada,20,Young Adult,Self
+79,m,Turkish,yes,yes,Russia,30,Young Adult,Parent
+80,m,?,no,no,United Arab Emirates,28,,Self
+81,m,Turkish,no,yes,United States,24,Young Adult,Self
+82,f,Middle Eastern ,no,no,Australia,24,Young Adult,Self
+83,m,White-European,no,yes,Sri Lanka,32,Young Adult,Self
+84,f,Pasifika,no,no,Sri Lanka,24,Young Adult,Self
+85,f,?,yes,no,New Zealand,24,,Self
+86,m,?,no,no,Netherlands,31,,Self
+87,f,Middle Eastern ,no,no,Afghanistan,28,Young Adult,Self
+88,m,White-European,no,no,Afghanistan,11,,Self
+89,m,Pasifika,yes,no,Germany,55,Adult,Self
+90,f,Middle Eastern ,no,no,India,39,Young Adult,Self
+91,m,White-European,no,no,Australia,17,Teen,Self
+92,m,Latino,no,no,India,14,Teen,Self
+93,f,White-European,no,yes,Netherlands,24,Young Adult,Self
+94,m,White-European,yes,yes,United Kingdom,11,,Self
+95,m,Asian,no,no,India,24,Young Adult,Self
+96,m,Others,no,no,Iran,32,Young Adult,Self
+97,m,White-European,no,yes,Canada,29,Young Adult,Self
+98,f,Pasifika,no,no,United Arab Emirates,18,Young Adult,Self
+99,f,White-European,no,yes,New Zealand,16,Teen,Self
+100,f,?,no,no,United Kingdom,11,,Self
+101,f,?,no,no,Pakistan,32,,Self
+102,m,Middle Eastern ,no,no,United Arab Emirates,25,Young Adult,Self
+103,m,White-European,no,no,United States,22,Young Adult,Self
+104,f,White-European,no,no,Canada,37,Young Adult,Self
+105,m,?,no,no,India,41,,Self
+106,f,South Asian,no,no,Australia,65,Adult,Self
+107,f,Asian,no,no,India,18,Young Adult,Self
+108,f,?,no,no,India,33,,Self
+109,m,White-European,no,no,India,17,Teen,Self
+110,f,?,yes,no,India,5,,Self
+111,f,White-European,no,yes,United Kingdom,62,Adult,Self
+112,m,White-European,no,no,United States,73,Adult,Self
+113,m,Black,yes,yes,United States,20,Young Adult,Self
+114,m,White-European,yes,no,Jordan,9,,Self
+115,m,Middle Eastern ,no,no,Afghanistan,35,Young Adult,Parent
+116,m,?,yes,no,Malaysia,15,,Self
+117,m,White-European,no,no,Canada,59,Adult,Self
+118,m,White-European,yes,no,Aruba,18,Young Adult,Self
+119,f,White-European,yes,yes,United States,52,Adult,Self
+120,m,White-European,no,no,United Kingdom,37,Young Adult,Self
+121,m,South Asian,no,no,Australia,11,,Self
+122,m,?,yes,yes,Italy,21,,Self
+123,f,?,no,no,United Arab Emirates,22,,Self
+124,m,Asian,no,no,United Kingdom,22,Young Adult,Self
+125,f,?,no,no,United Kingdom,30,,Self
+126,m,White-European,no,no,Ireland,34,Young Adult,Self
+127,f,?,yes,no,Afghanistan,10,,Self
+128,m,Middle Eastern ,yes,no,Italy,20,Young Adult,Self
+129,f,Middle Eastern ,no,no,Viet Nam,53,Adult,Self
+130,m,White-European,yes,yes,United States,8,,Self
+131,m,?,no,no,Austria,11,,Self
+132,f,Hispanic,no,no,Jordan,27,Young Adult,Self
+133,m,Hispanic,no,no,Malaysia,30,Young Adult,Parent
+134,m,?,no,no,Jordan,13,,Self
+135,m,White-European,no,no,United Kingdom,18,Young Adult,Self
+136,m,White-European,yes,no,United Kingdom,7,,Parent
+137,m,?,no,no,Jordan,9,,Self
+138,m,South Asian,no,yes,Afghanistan,9,,Self
+139,f,Middle Eastern ,no,no,Canada,28,Young Adult,Self
+140,m,Middle Eastern ,no,no,Russia,23,Young Adult,Self
+141,m,?,yes,no,United States,32,,Self
+142,m,Asian,no,no,Russia,14,Teen,Relative
+143,m,?,no,no,Tonga,35,,?
+144,m,Asian,no,no,New Zealand,23,Young Adult,Self
+145,f,Asian,no,no,United Arab Emirates,14,,?
+146,f,Middle Eastern ,no,no,United Kingdom,46,Adult,Self
+147,f,White-European,yes,yes,United States,,,Self
+148,f,Middle Eastern ,no,no,Jordan,,,Self
+149,m,White-European,no,no,United Kingdom,,,Self
+150,m,Asian,no,no,New Zealand,,,Self
+151,f,South Asian,no,no,Jordan,,,?
+152,f,Middle Eastern ,yes,no,New Zealand,,,Self
+153,m,Middle Eastern ,no,no,Netherlands,,,Self
+154,m,Asian,no,no,Jordan,,,Self
+155,m,?,no,no,New Zealand,,,Self
+156,m,White-European,yes,no,New Zealand,,,Self
+157,m,White-European,yes,no,United Kingdom,,,Parent
+158,f,White-European,no,no,United States,,,Self
+159,f,White-European,no,no,United States,,,Self
+160,m,?,no,no,Iran,,,Self
+161,f,Others,yes,no,India,,,Self
+162,f,?,no,no,United Kingdom,,,Self
+163,f,White-European,yes,no,India,,,Self
+164,f,White-European,no,yes,India,,,Self
+165,f,Latino,yes,yes,Australia,,,Self
+166,m,White-European,yes,no,New Zealand,,,Self
+167,m,White-European,yes,no,Bahamas,,,Self
+168,m,White-European,no,no,United Arab Emirates,,,Self
+169,m,White-European,no,no,Jordan,,,Self
+170,m,White-European,yes,no,United States,,,Health care professional
+171,m,White-European,yes,no,Australia,,,Self
+172,f,White-European,no,no,New Zealand,,,Self
+173,f,Latino,no,no,United States,,,Self
+174,m,White-European,no,no,Jordan,,,Parent
+175,m,Pasifika,no,yes,United States,,,Self
+176,m,White-European,yes,yes,United Kingdom,,,Self
+177,f,White-European,no,no,Canada,,,Self
+178,f,White-European,no,no,New Zealand,,,Self
+179,f,?,no,no,France,,,Health care professional
+180,m,Others,yes,no,Egypt,,,Self
+181,m,Middle Eastern ,no,yes,United Kingdom,,,Parent
+182,m,Others,no,no,United States,,,Self
+183,m,Middle Eastern ,no,no,New Zealand,,,Self
+184,m,White-European,yes,yes,United States,,,Self
+185,m,?,no,no,United Arab Emirates,,,Self
+186,f,?,no,no,United States,,,Self
+187,m,?,no,no,Philippines,,,Self
+188,m,South Asian,yes,no,New Zealand,,,Self
+189,m,White-European,no,yes,United States,,,Self
+190,f,Middle Eastern ,no,no,Malaysia,,,Self
+191,f,Pasifika,no,no,Malaysia,,,?
+192,m,Middle Eastern ,yes,yes,Viet Nam,,,Self
+193,m,Middle Eastern ,no,no,New Zealand,,,Self
+194,m,?,no,no,Australia,,,Self
+195,f,?,no,no,Jordan,,,Self
+196,m,Black,no,no,Azerbaijan,,,Self
+197,m,Others,no,no,India,,,Self
+198,m,?,no,no,New Zealand,,,?
+199,f,?,no,no,United States,,,Self
+200,f,Others,no,no,Czech Republic,,,Self
